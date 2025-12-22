@@ -38,12 +38,9 @@ My main interests include **software development**, **web applications**, **Prog
 ## Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=dark" />
-    <img 
-      src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=light" />
-  </picture>
+  <img 
+    src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=dark" 
+  />
 </p>
 
 ---
