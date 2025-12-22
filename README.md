@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=700&lines=Jonathan+Alexander+Nevarez+Medina;Ingenier%C3%ADa+en+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n;Software+%7C+Web+%7C+Databases" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Jonathan%20Alexander%20Nevarez%20Medina&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+
+<p>
+  <strong>Information Technology Engineering Student</strong> · Self-taught Developer  
+</p>
+
+<p>
+  Ecuador 🇪🇨
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
 </div>
 
@@ -8,40 +24,17 @@
 
 ## About Me
 
-I am a **student of Information Technology Engineering (IT)** and a **self-taught developer**, deeply interested in building efficient, scalable, and modern technological solutions.
+I am a **student of Information Technology Engineering (IT)** and a **self-taught developer** from Ecuador, passionate about building efficient, modern, and scalable technological solutions.
 
-My main interests focus on **software development**, **web applications**, **Progressive Web Apps (PWA)**, and **database systems**. I strongly believe in continuous learning and practical experience through real projects.
-
----
-
-## Core Interests
-
-- Software Development  
-- Web Development  
-- Progressive Web Applications (PWA)  
-- Database Design and Management  
-- Object-Oriented Programming (Java)
+My main interests include **software development**, **web applications**, **Progressive Web Apps (PWA)**, and **database systems**, with a strong foundation in **Object-Oriented Programming (Java)**.
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=light" />
 </p>
-
-### Technologies & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,googlecloud,firebase,mongodb,sqlite&theme=light" />
-</p>
-
-### Databases
-- SQL Server  
-- SQLite  
-- MongoDB  
-- Firebase  
-- MySQL (Workbench)
 
 ---
 
@@ -55,22 +48,20 @@ My main interests focus on **software development**, **web applications**, **Pro
 
 </div>
 
-> Statistics are dynamically generated from public GitHub data.
-
 ---
 
-## Current Goals
+## Current Focus
 
-- Strengthen software and web development skills  
-- Build modern applications (PWA-oriented)  
-- Improve database architecture knowledge  
-- Grow as a professional IT engineer
+- Software and web application development  
+- Progressive Web Applications (PWA)  
+- Database design and architecture  
+- Continuous improvement as an IT engineer  
 
 ---
 
 ## Contact
 
-- Email: **h81ms2pv@gmail.com**
+- Email: **h81ms2pv@gmail.com**  
 - GitHub: **https://github.com/JonathanNevarez**
 
 ---
