@@ -18,10 +18,11 @@ Ecuador 🇪🇨
 
 <!-- ===================== GIF ===================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-  </picture>
+  <img 
+    src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif" 
+    width="380" 
+    alt="Coding Cat"
+  />
 </div>
 
 ---
@@ -30,7 +31,7 @@ Ecuador 🇪🇨
 
 I am a **student of Information Technology Engineering (IT)** and a **self-taught developer from Ecuador**, focused on building efficient, scalable, and modern technological solutions.
 
-My interests revolve around **software development**, **web applications**, **Progressive Web Apps (PWA)**, and **database systems**, with experience in **Object-Oriented Programming (Java)** and a strong motivation for continuous learning.
+My main interests include **software development**, **web applications**, **Progressive Web Apps (PWA)**, and **database systems**, with experience in **Object-Oriented Programming (Java)** and continuous learning driven by curiosity and practice.
 
 ---
 
@@ -39,26 +40,11 @@ My interests revolve around **software development**, **web applications**, **Pr
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=dark" />
+      srcset="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=dark" />
     <img 
-      src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=light" />
+      src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=light" />
   </picture>
 </p>
-
----
-
-## Featured Projects
-
-> A selection of projects that reflect my learning path and technical growth.
-
-- **Academic Systems & Desktop Apps**  
-  Java and C# applications applying OOP principles and database integration.
-
-- **Web & PWA Experiments**  
-  Progressive web applications focused on usability and performance.
-
-- **Database-Oriented Projects**  
-  Practical use of relational and NoSQL databases (SQL Server, MongoDB, Firebase).
 
 ---
 
@@ -88,6 +74,7 @@ My interests revolve around **software development**, **web applications**, **Pr
 
 - Software and web development  
 - Progressive Web Applications (PWA)  
+- Backend with Node.js and Express  
 - Database design and architecture  
 - Professional growth as an IT engineer  
 
