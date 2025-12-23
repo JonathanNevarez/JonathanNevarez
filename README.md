@@ -39,7 +39,7 @@ My main interests include **software development**, **web applications**, **Prog
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=dark" 
+    src="https://skillicons.dev/icons?i=cpp,cs,java,python,javascript,nodejs,express,react,html,css,linux,git,github,googlecloud,firebase,mongodb,sqlite,mysql&theme=light" 
   />
 </p>
 
