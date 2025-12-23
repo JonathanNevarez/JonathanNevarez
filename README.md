@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0B3A2A&height=220&section=header&text=Jonathan%20Alexander%20Nevarez%20Medina&fontSize=36&fontColor=E6FFF5&animation=fadeIn" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1F6F54&height=220&section=header&text=Jonathan%20Alexander%20Nevarez%20Medina&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+    src="https://capsule-render.vercel.app/api?type=waving&color=0B3A2A&height=220&section=header&text=Jonathan%20Alexander%20Nevarez%20Medina&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </picture>
 
 <div align="center">
