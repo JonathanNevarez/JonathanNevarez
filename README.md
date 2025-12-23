@@ -94,7 +94,7 @@ My main interests include **software development**, **web applications**, **Prog
 <!-- ===================== FOOTER ===================== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-    srcset="https://capsule-render.vercel.app/api?type=rect&color=0F3D2E&height=3" />
+    srcset="https://capsule-render.vercel.app/api?type=rect&color=0B3A2A&height=3" />
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=2E8B57&height=3" />
+    src="https://capsule-render.vercel.app/api?type=rect&color=1F6F54&height=3" />
 </picture>
