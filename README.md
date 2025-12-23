@@ -70,8 +70,7 @@ My main interests include **software development**, **web applications**, **Prog
 ## Current Focus
 
 - Software and web development  
-- Progressive Web Applications (PWA)  
-- Backend with Node.js and Express  
+- Progressive Web Applications (PWA)   
 - Database design and architecture  
 - Professional growth as an IT engineer  
 
